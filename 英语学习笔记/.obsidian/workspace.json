@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -177,9 +177,17 @@
               "type": "reminder-list",
               "state": {}
             }
+          },
+          {
+            "id": "6e8cdecbb6c77597",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       },
       {
         "id": "ea58f1f58c2948ce",
@@ -220,7 +228,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "38b33f9b91a2c07f",
+  "active": "6e8cdecbb6c77597",
   "lastOpenFiles": [
     "50个 Greek 和 Latin 词根/词根列表.md",
     "Spaces",
