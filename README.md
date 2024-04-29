@@ -38,6 +38,7 @@
 - https://github.com/Yustynn/obsidian-last-modified-timestamp-in-status-bar 修改时间显示插件
 - https://github.com/PKM-er/media-extended 媒体嵌入插件
 - https://github.com/tgrosinger/advanced-tables-obsidian 表格增强插件 ❤
+- https://github.com/ganesshkumar/obsidian-table-editor 表格编辑插件 ❤
 - https://github.com/olrenso/obsidian-home-tab 默认主页标签
 - https://github.com/vran-dev/obsidian-contribution-graph 贡献图插件
 - https://github.com/mgmeyers/obsidian-copy-block-link 复制块链接插件
@@ -100,6 +101,10 @@
 - https://github.com/MarkMindCkm/obsidian-markmind 思维导图和PDF文件标注工具
 - https://github.com/zhaohongxuan/obsidian-weread-plugin 微信读书插件
 - https://github.com/zolrath/obsidian-auto-link-title 自动链接标题插件 ❤
+- https://github.com/lynchjames/note-refactor-obsidian 笔记重构插件 ❤
+- https://github.com/st3v3nmw/obsidian-spaced-repetition 间隔重复记忆插件 ❤
+- https://github.com/mProjectsCode/obsidian-meta-bind-plugin 与内联输入字段、元数据显示和按钮进行交互。❤
+- https://github.com/meld-cp/obsidian-encrypt 加密笔记插件 ❤
 
 ## Obsidian 四大金刚
 
@@ -108,10 +113,15 @@
 - https://github.com/zsviczian/obsidian-excalidraw-plugin 绘图插件 ❤
 - https://github.com/chhoumann/quickadd 聚合操作插件 ❤
 
-# Obsidian 笔记发布
+## 浏览器拓展
+
+- https://github.com/mvavassori/obsidian-web-clipper
+
+## Obsidian 笔记发布
 
 - https://github.com/oleeskild/obsidian-digital-garden
 - https://github.com/jackyzha0/quartz
+- https://github.com/KosmosisDire/obsidian-webpage-export ❤
 
 文章参考：
 
@@ -119,6 +129,18 @@
 - https://insile.github.io/my-notes/%E7%AC%94%E8%AE%B0/%E5%85%AC%E5%85%B1%E7%AC%94%E8%AE%B0%E5%BA%93/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-Quartz-4.0-%E5%92%8C-GitHub-Pages-%E5%85%8D%E8%B4%B9%E5%8F%91%E5%B8%83-Obsidian-%E7%AC%94%E8%AE%B0
 - https://www.jianshu.com/p/32849c512de4
 
-# 脚本参考
+## 插件开发
+
+- https://github.com/pjeby/hot-reload 热加载插件
+
+## 脚本参考
 
 - https://github.com/ohm-en/obsidian-plugin-manager
+
+## 库示例
+
+- https://github.com/s-blu/obsidian_dataview_example_vault
+
+### 文章
+
+- https://forum.obsidian.md/t/timeline-of-events-using-dataview-flatten-group-by-stuck/78745
