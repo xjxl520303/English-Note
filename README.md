@@ -22,6 +22,7 @@
 - https://github.com/Clemens-E/obsidian-languagetool-plugin 语法检查插件
 - https://github.com/argenos/nldates-obsidian 插入日记时间插件
 - https://github.com/uphy/obsidian-reminder 待办提示插件 ❤
+- https://github.com/ryanjamurphy/review-obsidian 回顾提示插件
 - https://github.com/lazyloong/obsidian-code-tab 内容选项卡插件
 - https://github.com/FlorianWoelki/obsidian-iconize 图标插件
 - https://github.com/Yaozhuwa/easy-typing-obsidian 输入体验增加插件 ❤
@@ -105,6 +106,9 @@
 - https://github.com/st3v3nmw/obsidian-spaced-repetition 间隔重复记忆插件 ❤
 - https://github.com/mProjectsCode/obsidian-meta-bind-plugin 与内联输入字段、元数据显示和按钮进行交互。❤
 - https://github.com/meld-cp/obsidian-encrypt 加密笔记插件 ❤
+- https://github.com/mark-when/obsidian-plugin mark-when 插件 ❤
+- https://github.com/hotoo/obsidian-markline 标记线插件
+- https://github.com/Leonezz/obsidian-tasks-calendar-wrapper 任务日历插件 ❤
 
 ## Obsidian 四大金刚
 

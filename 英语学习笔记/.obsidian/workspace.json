@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0c8e395b589fdc03",
+        "id": "d3c0f1c9238df71d",
         "type": "tabs",
         "children": [
           {
-            "id": "38b33f9b91a2c07f",
+            "id": "2073cdd4a8e10312",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "50个 Greek 和 Latin 词根/词根列表.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
         ]
@@ -66,7 +62,15 @@
             }
           },
           {
-            "id": "c42dc57b72ebf973",
+            "id": "94e34d19375e40c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "37eae6869cd9d99d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -74,22 +78,15 @@
             }
           },
           {
-            "id": "692ca8b7b9f97083",
+            "id": "3fab1c8b837a9205",
             "type": "leaf",
             "state": {
               "type": "surfing-tab-tree",
               "state": {}
             }
-          },
-          {
-            "id": "94e34d19375e40c1",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -109,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "50个 Greek 和 Latin 词根/词根列表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "50个 Greek 和 Latin 词根/词根列表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "50个 Greek 和 Latin 词根/词根列表.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,14 +151,6 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "f5e6fefc0697cf8e",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
               "state": {}
             }
           },
@@ -178,7 +163,15 @@
             }
           },
           {
-            "id": "6e8cdecbb6c77597",
+            "id": "b56efe7b49cad9d1",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "bbcbc0ede1af7ee8",
             "type": "leaf",
             "state": {
               "type": "quiet-outline",
@@ -209,7 +202,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -220,19 +212,20 @@
       "obsidian-language-learner:打开新词面板": false,
       "obsidian-language-learner:打开统计": false,
       "obsidian-language-learner:单词列表": false,
-      "media-extended:Open media": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-day-planner:Timeline": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "media-extended:Open media": false,
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "552900e2798fa46c",
+  "active": "2073cdd4a8e10312",
   "lastOpenFiles": [
+    "50个 Greek 和 Latin 词根/词根列表.md",
     "文档二.md",
     "50个 Greek 和 Latin 词根/文档一.md",
     "50个 Greek 和 Latin 词根/文档二.md",
-    "50个 Greek 和 Latin 词根/词根列表.md",
     "Spaces",
     "附件/白板",
     "附件/图表",

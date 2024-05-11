@@ -1,6 +1,7 @@
 {
   "newNotePlaceholder": "Untitled",
   "defaultInitialization": false,
+  "navigatorEnabled": true,
   "filePreviewOnHover": false,
   "flowMenuEnabled": true,
   "markSans": false,
@@ -83,12 +84,12 @@
   "autoMigration08": false,
   "releaseNotesPrompt": 0.9,
   "enableDefaultSpaces": true,
-  "enableTagSpaces": true,
   "showSpacePinIcon": true,
   "minimalFix": false,
   "experimental": false,
   "systemName": "英语学习笔记",
   "defaultSpaceTemplate": "",
   "selectedKit": "default",
-  "actionMaxSteps": 100
+  "actionMaxSteps": 100,
+  "enableTagSpaces": true
 }
