@@ -26,6 +26,7 @@
 - https://github.com/lazyloong/obsidian-code-tab 内容选项卡插件
 - https://github.com/FlorianWoelki/obsidian-iconize 图标插件
 - https://github.com/Yaozhuwa/easy-typing-obsidian 输入体验增加插件 ❤
+- https://github.com/obsidian-canzi/Enhanced-editing 增强编辑插件 ❤
 - https://github.com/aidenlx/cm-chs-patch 中文自动分词插件 ❤
 - https://github.com/Natumsol/obsidian-pangu 优化文字间距插件 ❤
 - https://github.com/PKM-er/obsidian-editing-toolbar 浮动编辑工具栏插件 ❤
@@ -40,9 +41,12 @@
 - https://github.com/PKM-er/media-extended 媒体嵌入插件
 - https://github.com/tgrosinger/advanced-tables-obsidian 表格增强插件 ❤
 - https://github.com/ganesshkumar/obsidian-table-editor 表格编辑插件 ❤
+- https://github.com/trey-wallis/obsidian-dataloom 表格
 - https://github.com/olrenso/obsidian-home-tab 默认主页标签
 - https://github.com/vran-dev/obsidian-contribution-graph 贡献图插件
 - https://github.com/mgmeyers/obsidian-copy-block-link 复制块链接插件
+- https://github.com/GitMurf/obsidian-drag-and-drop-blocks 块拖拽插件
+- https://github.com/TfTHacker/obsidian42-text-transporter 文本传输插件
 - https://github.com/platers/obsidian-linter 格式化插件
 - https://github.com/ivan-lednev/obsidian-day-planner 日计划插件
 - https://github.com/PKM-er/Obsidian-Surfing 网页浏览插件 ❤
@@ -61,6 +65,14 @@
 - https://github.com/OliverBalfour/obsidian-pandoc 文档导出插件 ❤
 - https://github.com/MSzturc/obsidian-advanced-slides 幻灯片插件 ❤
 - https://github.com/Mocca101/obsidian-plugin-groups 多插件管理插件 ❤
+- https://github.com/MichaBrugger/obsidian-footnotes 脚注插件 ❤
+- https://github.com/danielo515/obsidian-modal-form 弹窗表单插件 ❤
+- https://github.com/dy-sh/obsidian-remember-cursor-position 记忆光标位置插件 ❤
+- https://github.com/dartungar/obsidian-mermaid 画图
+- https://github.com/noatpad/obsidian-banners Banner 图片 ❤
+- https://github.com/arnau/obsidian-metatable 属性显示为表格插件 ❤
+- https://github.com/liammagee/obsidian-topic-linking 
+- https://github.com/artem-barmin/obsidian-block-drag-n-drop 块拖拽插件 ❤
 
 
 ## 未开启插件：
@@ -70,7 +82,9 @@
 - https://github.com/samuelsong70/obsidian-dynamic-background 动态背景插件
 - https://github.com/mdelobelle/metadatamenu 元数据管理插件 ❤
 - https://github.com/phibr0/obsidian-charts 图表插件
+- https://github.com/caronchen/obsidian-chartsview-plugin 图表插件
 - https://github.com/sunxvming/obsidian-vscode-editor 代码编辑插件 ❤
+- https://github.com/NomarCub/obsidian-open-vscode 在 vscode 中打开笔记插件 ❤
 - https://github.com/mayurankv/Obsidian-Code-Styler 代码快美化插件 ❤
 - https://github.com/hankjs/obsidian-code-preview 代码文件嵌入插件
 - https://github.com/MrGVSV/obsidian-github-embeds 嵌入 Github 代码、Issue 和 PR 插件 ❤
@@ -109,6 +123,21 @@
 - https://github.com/mark-when/obsidian-plugin mark-when 插件 ❤
 - https://github.com/hotoo/obsidian-markline 标记线插件
 - https://github.com/Leonezz/obsidian-tasks-calendar-wrapper 任务日历插件 ❤
+- https://github.com/liamcain/obsidian-periodic-notes 周期性笔记插件 ❤
+- https://github.com/LincZero/obsidian-any-block 任意块转换插件
+- https://github.com/pyrochlore/obsidian-tracker 跟踪插件 ❤
+- https://github.com/elias-sundqvist/obsidian-react-components 用 react 组件渲染 Obsidian 内容插件 ❤
+- https://github.com/saml-dev/obsidian-custom-js 自定义js 插件 ❤
+- https://github.com/jon-heard/obsidian-inline-scripts 内联脚本插件 ❤
+- https://github.com/trganda/obsidian-attachment-management 附件管理插件 ❤
+- https://github.com/pjeby/pane-relief
+- https://github.com/wish5115/obsidian-ii-quicker 快捷插入Markdown内容插件 ❤
+- https://github.com/Yakitrak/obsidian-cli 终端命令插件
+- https://github.com/divamgupta/obsidian-spreadsheets 电子表格
+- https://github.com/klaudyu/CalcCraft 电子表格
+- https://github.com/Canna71/obsidian-sheets 电子表格
+- https://github.com/yuleicul/obsidian-mdx
+
 
 ## Obsidian 四大金刚
 
@@ -136,6 +165,7 @@
 ## 插件开发
 
 - https://github.com/pjeby/hot-reload 热加载插件
+- https://github.com/TfTHacker/obsidian42-brat
 
 ## 脚本参考
 
@@ -145,6 +175,13 @@
 
 - https://github.com/s-blu/obsidian_dataview_example_vault
 
+## ob 配置参考
+
+- https://github.com/Rainbell129/Obsidian-Homepage
+- https://github.com/PKM-er/Blue-topaz-example
+- https://github.com/SongshGeo/Obsidian-PaperBell
+
 ### 文章
 
+- https://zhuanlan.zhihu.com/p/565218725
 - https://forum.obsidian.md/t/timeline-of-events-using-dataview-flatten-group-by-stuck/78745
